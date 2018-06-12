@@ -1,0 +1,54 @@
+Initialize engine version: 5.6.5f1 (2cac56bf7bb6)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 950M (ID=0x139a)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   24.21.13.9793
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\varun\Desktop\Course\Unity 2D\Shoot Hoop\New Unity Project\Shoot Hoop_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\varun\Desktop\Course\Unity 2D\Shoot Hoop\New Unity Project\Shoot Hoop_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\varun\Desktop\Course\Unity 2D\Shoot Hoop\New Unity Project\Shoot Hoop_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\varun\Desktop\Course\Unity 2D\Shoot Hoop\New Unity Project\Shoot Hoop_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\varun\Desktop\Course\Unity 2D\Shoot Hoop\New Unity Project\Shoot Hoop_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\varun\Desktop\Course\Unity 2D\Shoot Hoop\New Unity Project\Shoot Hoop_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\varun\Desktop\Course\Unity 2D\Shoot Hoop\New Unity Project\Shoot Hoop_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\varun\Desktop\Course\Unity 2D\Shoot Hoop\New Unity Project\Shoot Hoop_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.108 seconds
+Platform assembly: C:\Users\varun\Desktop\Course\Unity 2D\Shoot Hoop\New Unity Project\Shoot Hoop_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\varun\Desktop\Course\Unity 2D\Shoot Hoop\New Unity Project\Shoot Hoop_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 2.637370 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 34b4 -> priority: 1 
+  Thread -> id: 864 -> priority: 1 
+  Thread -> id: 3058 -> priority: 1 
+  Thread -> id: 1768 -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 9.771416 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 812.
+Total: 1.416387 ms (FindLiveObjects: 0.047370 ms CreateObjectMapping: 0.016185 ms MarkObjects: 0.206457 ms  DeleteObjects: 1.145979 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.323224 ms
+
+Unloading 33 unused Assets to reduce memory usage. Loaded Objects now: 296.
+Total: 0.438969 ms (FindLiveObjects: 0.024869 ms CreateObjectMapping: 0.014211 ms MarkObjects: 0.196983 ms  DeleteObjects: 0.201720 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.327648 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 287.
+Total: 0.384098 ms (FindLiveObjects: 0.013816 ms CreateObjectMapping: 0.026843 ms MarkObjects: 0.152376 ms  DeleteObjects: 0.191062 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.378571 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 813.
+Total: 1.510339 ms (FindLiveObjects: 0.067898 ms CreateObjectMapping: 0.015395 ms MarkObjects: 0.194220 ms  DeleteObjects: 1.232036 ms)
+
